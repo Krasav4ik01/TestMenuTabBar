@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EmptyActivity</string>
+    <string name="homePageText">Home Page</string>
+    <string name="secondPageText">Second Page</string>
+    <string name="ButtonText">Open</string>
+    <string name="goBackButtonText">Back</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Home Page</string>
+    <string name="profile_blank_fragment">Profile Page</string>
+    <string name="settings_blank_fragment">Settings Page</string>
+</resources>
